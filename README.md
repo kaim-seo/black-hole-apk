@@ -1,1 +1,2 @@
 # black-hole-apk
+Download the latest version of <a href="https://blackholeapk.com/">Black Hole APK</a> for Android, a music streaming app built using Flutter. This app allows you to import songs from popular platforms like Spotify, JioSaavan, Resso, and YouTube Music. If you're in need of a free music app, BlackHole is an excellent choice because it enables downloading songs for offline listening. Enjoy high-quality, ad-free music with this app.
